@@ -1,0 +1,7 @@
+{
+  "name": "Instanza",
+  "description": "A nostalgic camera app that captures 1:1 square photos, uses AI to generate poetic handwritten captions, and develops them into classic Polaroid prints. See beyond the frame.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
