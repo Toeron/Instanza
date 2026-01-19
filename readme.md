@@ -55,4 +55,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 5. **Final Result**: Your high-resolution Polaroid is ready for download.
 
 ---
-Built with ❤️ by Toeron & Antigravity.
+Built with ❤️ by Toeron
